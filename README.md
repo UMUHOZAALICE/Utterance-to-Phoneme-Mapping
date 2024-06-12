@@ -16,6 +16,6 @@ This project allowed me to understand how to deal with sequence-to-sequence prob
 To achieve the best score, different parameters were tuned. Around 200 epochs were used, with a batch size of 32 and a learning rate of 3e-3, among other settings as stated in the configs cell.
 
 # Results
-Valid distance locally: 5.244
-Test distance on Kaggle (public score): 5.58
+Valid distance locally: 5.244, 
+Test distance on Kaggle (public score): 5.58, 
 Test distance on Kaggle (private score): 5.80
